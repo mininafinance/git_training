@@ -1,3 +1,3 @@
 # git_training
 
-Hello World
+## How to push code to GitHub
